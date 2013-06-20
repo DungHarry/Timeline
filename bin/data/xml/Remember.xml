@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remembers>
+  <user>
+    <name>Harry</name>
+    <password>dungkstn</password>
+  </user>
+  <MySQL>
+    <url>jdbc:mysql://localhost/timeline</url>
+    <address>localhost</address>
+    <database>timeline</database>
+    <name>root</name>
+    <password>dungkstn</password>
+  </MySQL>
+</remembers>
